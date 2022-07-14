@@ -1,0 +1,68 @@
+[
+       {
+        "reference": "https://cdn.romania-insider.com/sites/default/files/styles/article_large_image/public/2020-02/bucegi_mountains_seen_from_downtown_bucharest_dan_mihai_balanescu_facebook_page.jpg",
+        "id": 683506,
+        "name": "Bucharest",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 26.10626,
+            "lat": 44.432251
+        }
+    },
+        {
+        "reference": "https://cdn.romania-insider.com/sites/default/files/styles/article_large_image/public/2020-02/bucegi_mountains_seen_from_downtown_bucharest_dan_mihai_balanescu_facebook_page.jpg",
+        "id": 686253,
+        "name": "Arad",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 21.75,
+            "lat": 46.333328
+        }
+    },
+        {
+        "reference": "https://cdn.romania-insider.com/sites/default/files/styles/article_large_image/public/2020-02/bucegi_mountains_seen_from_downtown_bucharest_dan_mihai_balanescu_facebook_page.jpg",
+        "id": 1726701,
+        "name": "Barcelona",
+        "state": "",
+        "country": "PH",
+        "coord": {
+            "lon": 123.0485,
+            "lat": 13.7715
+        }
+    },
+        {
+        "reference": "https://cdn.romania-insider.com/sites/default/files/styles/article_large_image/public/2020-02/bucegi_mountains_seen_from_downtown_bucharest_dan_mihai_balanescu_facebook_page.jpg",
+        "id": 2618425,
+        "name": "Copenhagen",
+        "state": "",
+        "country": "DK",
+        "coord": {
+            "lon": 12.56553,
+            "lat": 55.675941
+        }
+    },
+           {
+        "reference": "https://cdn.romania-insider.com/sites/default/files/styles/article_large_image/public/2020-02/bucegi_mountains_seen_from_downtown_bucharest_dan_mihai_balanescu_facebook_page.jpg",
+        "id": 2950158,
+        "name": "Berlin",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 10.45,
+            "lat": 54.033329
+        }
+    },
+        {
+        "reference": "https://cdn.romania-insider.com/sites/default/files/styles/article_large_image/public/2020-02/bucegi_mountains_seen_from_downtown_bucharest_dan_mihai_balanescu_facebook_page.jpg",
+        "id": 5128581,
+        "name": "New York City",
+        "state": "NY",
+        "country": "US",
+        "coord": {
+            "lon": -74.005966,
+            "lat": 40.714272
+        }
+    }
+]

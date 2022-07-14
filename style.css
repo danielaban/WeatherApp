@@ -1,0 +1,87 @@
+.hero-image {background-image: url( '' ); height: 100vh; width: 100vw; background-position: center; background-repeat: no-repeat; background-size: cover; position: relative;}
+
+/*background-image: url(https://media.cntraveler.com/photos/5bfdb12a1b3466234d8136c5/16:9/w_4991,h_2807,c_limit/GettyImages-1045586638.jpg);
+*/
+.image-overlay {position:absolute; background-color: rgba(97, 143, 228, 0.5); top: 0; left: 0; width: 100%; height: 100%; z-index: 0;}
+
+.dropdown-style {background-color: inherit; 
+                background-image: inherit; 
+                width: 40%; display: block; 
+                text-align: center; 
+                border-color: aliceblue;
+                color: aliceblue;
+                padding: 1rem 0rem;
+                margin: 2rem 0rem;
+                border-radius: 1rem;
+            }
+
+.container {
+    width: 60%;
+}
+
+.temp-details  {
+    height: auto;
+    text-align: right   ;
+    color: aliceblue;
+}
+
+
+.temp {
+    font-size: 10rem;
+    }
+
+.weather-details {
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: left;
+        flex-wrap: nowrap;
+        
+        color: #fff;
+}
+
+@media screen and (max-width: 1200px) {
+    .container {width: 80%;}         
+    }
+
+@media screen and (max-width: 768px) {
+    .temp {font-size: 8rem;}
+    .container {width: 80%;}
+    .temp-details {display: flex;
+        flex-direction: column;
+        justify-content: center;              
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .temp {font-size: 5rem;}
+    .container {width: 100%;
+        padding-top: 3rem;}
+}
+.details {
+    display: flex;
+}
+.icon2 {height: 20px;
+        width: 30px;
+        color: #fff;
+        text-align: center;    
+    }
+
+
+/*display: block;
+    width: 100%;
+    padding: 0.375rem 2.25rem 0.375rem 0.75rem;
+    -moz-padding-start: calc(0.75rem - 3px);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-image: url(data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%23343a40' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='m2 5 6 6 6-6'/%3e%3c/svg%3e);
+    background-repeat: no-repeat;
+    background-position: right 0.75rem center;
+    background-size: 16px 12px;
+    border: 1px solid #ced4da;
+    border-radius: 0.375rem;
+    transition: border-color .15
